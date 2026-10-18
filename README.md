@@ -4,7 +4,7 @@
 
 ### Tema e o objetivo
 
-- Tema
+- Tema:
 Melhoria contínua e automação inteligente de processos administrativos e financeiros.
 
 Como identificar desperdícios, analisar dados, automatizar tarefas repetitivas com Excel VBA, Python e utilizar IA generativa com segurança para melhorar processos.
@@ -17,7 +17,7 @@ Pode ser útil para futuras oportunidades de crescimento na minha carreira, proj
 Meu segundo cérebro deverá ajudar a responder a uma pergunta prática: 
 Como transformar um processo ineficiente em um processo mais limpo, automatizado e confiável?
 
-- Objetivo
+- Objetivo:
 Construir um segundo cérebro especializado em melhoria contínua e automação inteligente de processos, capaz de orientar a identificação de desperdícios, o mapeamento de processos e a análise de indicadores, sempre fundamentando suas recomendações nas fontes selecionadas.
 
 
