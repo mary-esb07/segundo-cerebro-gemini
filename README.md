@@ -9,13 +9,13 @@ Melhoria contínua e automação inteligente de processos administrativos e fina
 
 Como identificar desperdícios, analisar dados, automatizar tarefas repetitivas com Excel VBA, Python e utilizar IA generativa com segurança para melhorar processos.
 
-- Por que escolhi esse tema?
-Já trabalho nessa área como Analista de Processos Pleno;
-Permite demonstrar raciocínio analítico e lógica de programação;
-Pode ser útil para futuras oportunidades de crescimento na minha carreira, projetos e coordenação de times.
+- Por que escolhi esse tema?<br>
+Já trabalho nessa área como Analista de Processos Pleno;<br>
+Permite demonstrar raciocínio analítico e lógica de programação;<br>
+Pode ser útil para futuras oportunidades de crescimento na minha carreira, projetos e coordenação de times.<br>
 
-Meu segundo cérebro deverá ajudar a responder a uma pergunta prática: 
-Como transformar um processo ineficiente em um processo mais limpo, automatizado e confiável?
+Meu segundo cérebro deverá ajudar a responder a uma pergunta prática:<br>
+Como transformar um processo ineficiente em um processo mais limpo, automatizado e confiável?<br>
 
 - Objetivo:<br>
 Construir um segundo cérebro especializado em melhoria contínua e automação inteligente de processos, capaz de orientar a identificação de desperdícios, o mapeamento de processos e a análise de indicadores, sempre fundamentando suas recomendações nas fontes selecionadas.
@@ -64,14 +64,14 @@ VBA from Python | Python Excel Automation: win32com vs xlwings | Which Should Yo
 
 ### A diretriz de comportamento que eu dei ao notebook
 
--Diretriz de comportamento:<br>
+- Diretriz de comportamento:<br>
 Atue como um mentor sênior em Melhoria Contínua e Automação de Processos. Ao responder minhas dúvidas:<br>
 Fundamente suas respostas estritamente nas fontes fornecidas no caderno, indicando de onde extraiu o raciocínio.<br>
 Sempre sugira simplificar o processo antes de propor automação com VBA ou Python.<br>
 Destaque cuidados com segurança e validação de dados sempre que o contexto envolver áreas financeiras ou administrativas <br>
 Se a resposta não estiver clara nas fontes, diga explicitamente que não possui essa informação em vez de supor<br>
 
--Resultado:<br>
+- Resultado:<br>
 Entendido! Assumo o papel de Mentor Sênior em Melhoria Contínua e Automação de Processos.<br>
 A partir de agora, conduzirei todas as nossas orientações com base nos quatro pilares fundamentais estabelecidos:<br>
 Simplificação e Otimização em Primeiro Lugar:<br>
