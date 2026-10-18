@@ -23,6 +23,44 @@ Construir um segundo cérebro especializado em melhoria contínua e automação 
 
 ### As fontes que entraram, e por que você confio nelas
 
+Pesquisei algumas fontes pelo usando o ChatGPT e as demais foram trazidas pelo Deep Research.
+
+O relatório abaixo foi montado pelo próprio Notebook criado.
+
+- Fontes incluídas manualmente (7 fontes)
+Estas fontes são tutoriais, guias da comunidade em português e documentações oficiais que não fazem parte do relatório gerado pelo Deep Search:
+Python Brasil-Python para quem está começando
+Automação de Planilhas Python — 2025 | Python Dev BR
+Integração entre Python e Excel usando Pandas e o Openpyxl (Canal Hashtag Programação no YouTube)
+Introdução ao VBA no Office | Microsoft Learn
+Referência do VBA (Office Visual Basic for Applications) | Microsoft Learn
+Objeto Workbook (Excel) | Microsoft Learn
+O tutorial do Python — Documentação Python 3.15.0
+
+- Fontes vindas do Deep Search (19 itens)
+Correspondem ao relatório consolidado e às 18 referências bibliográficas consultadas e citadas ao longo da pesquisa:
+Relatório principal: Arquitetura de Melhoria Contínua e Automação Inteligente de Processos Administrativos e Financeiros (Markdown)
+Artigos e Artigos Acadêmicos:
+Actuarial process optimisation: Bridging the gap between Python and Excel through Xlwings
+Article: The Lean Office Approach | 6Sigma.us
+Excel VBA vs Python for Automation: The Finance Team's Guide - Athena Stream
+Integrating Lean Six Sigma into waste management evaluation... - ResearchGate
+Lean Six Sigma in Manufacturing: A Comprehensive Review - IntechOpen
+Leveraging Six Sigma DMAIC for Lean Implementation in Mechanical Workshops - MDPI
+openpyxl vs xlwings: Which Excel Library Should You Use? | QC After Hours
+Part 2: When Excel Needs to Grow Up — The Hybrid Excel + Python / Power BI Framework
+Process improvement in an office environment using Lean Six Sigma - Chalmers ODR
+The Best Python Libraries for Excel in 2025 | SheetFlash
+Tools for Working with Excel and Python - PyXLL
+VBA vs Python & Power Automate: 10 Wins in 2026 - ExcelGoodies
+What Industries Have Benefited from Lean Six Sigma Practices | Emory University
+What is Lean Six Sigma? - APMG International
+What is Lean Six Sigma? Definition, Methodology, & Benefits - Knowledge Train
+Differences between xlwings vs openpyxl Reading Excel Workbooks - Stack Overflow
+Vídeos no YouTube (em inglês):
+Python and Excel for Fast Workflows with OpenPyXL, and XLWings
+VBA from Python | Python Excel Automation: win32com vs xlwings | Which Should You Use? | Part 2
+
 
 ### A diretriz de comportamento que eu dei ao notebook
 
